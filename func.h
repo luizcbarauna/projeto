@@ -1,3 +1,4 @@
+
 float totalc(float corte, float cnum)
 {
   float totalcorte;
